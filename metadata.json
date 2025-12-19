@@ -1,0 +1,7 @@
+{
+  "name": "Wanderlust AI Tour Guide",
+  "description": "A personal travel companion that provides expert insights on cities worldwide, including top attractions and essential travel tips using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
